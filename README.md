@@ -12,3 +12,5 @@ There is a description of the results for each visualization (7 pt)
 Summary:
 
 There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt)
+
+[link to dashboard](https://public.tableau.com/app/profile/francesca.walz/viz/CitiBikeTrips_16631661254180/BikeSharingStorybook?publish=yes "link to dashboard")
