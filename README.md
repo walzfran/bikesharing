@@ -28,6 +28,18 @@
 
 ![Fifth_Image](https://github.com/walzfran/bikesharing/blob/main/Images/Users_gender_TripDuration.png)
 
+###### The next slide in the story shows the days of the week and the start times for the rides, in this image we can see that during the weekdays (Monday-Friday) the bikes are used mainly during 7AM to 9AM and again at 5PM to 7PM. This would lead me the think that most of the users are riding for commutes to and from work. On the weekends (Saturday and Sunday) we see that mid-day seems to be the most popular start time which would show that users are probably riding for more leisurely things such as sight seeing. 
+
+![Sixth_Image](https://github.com/walzfran/bikesharing/blob/main/Images/Weekday_User.png)
+
+###### We then take a look at the Citi Bike-Sharing data and break it down by weekday, gender and then subscriber vs. customer. In this visualization we see that customers are using bikes more on the weekends vs. weekdays and subscribers are using bikes more during the weekdays vs. weekends. This makes me think that customers are more likely to be using the bikes for leisure vs. commute and scubscribers are using the bikes more for commutes as they mainly use the bikes Monday-Friday. This makes a lot of sense to me because if I personally was choosing to to have a subscription to a bike service I would want a regular use for it vs. just for fun. 
+
+![Seventh_Image](https://github.com/walzfran/bikesharing/blob/main/Images/Weekday_User_Gender.png)
+
+###### The final image below is showing a breakdown of users by week, starttime and gender. This is similar to one of the visualizations but it takes it a step further and filters by gender. This helps to show us that men are very active with using the bikes during that commute time Monday-Friday and women are a bit more likely to be using these bikes on the weekend vs. thier use on the weekdays. There could be quite a few facotrs as to why more men are using the Citi Bikes one being attire. My mind goes right to what do people wear to work and is it something that they can ride a bike in. As a woman myself, I know that riding a bike can be more challenging in certain outfits like a dress or skirt which is a popular clothing item to wear when going to work, especially in a work environment. 
+
+![Eigth_Image](https://github.com/walzfran/bikesharing/blob/main/Images/Weekday_Gender_Starttime.png)
+
 
 
 
