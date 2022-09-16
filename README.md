@@ -40,23 +40,12 @@
 
 ![Eigth_Image](https://github.com/walzfran/bikesharing/blob/main/Images/Weekday_Gender_Starttime.png)
 
+#### Summary
 
+###### Below is information that we can shate with investors based on the data we analyzed. 
 
+* A majority of the users are male
+* There are far more subscribers than single use customers 
+* A majority of the subscribers use the Citi Bikes for weekday commutes with single use customers utilizing bikes on weekends presumably for leisure. 
 
-
-
-
-Summary
-Based on the data set we analyze we feel confident to share with the investors the following facts:
-
-65.2% of Citi bikes' customers are men who ride over 1M 500K trips in a month.
-Based on the customer's age our market should be focused on men and women over 28 years.
-According to the trip's start and end locations the most used stations are the ones closer to the building's offices and public transportation.
-75% of the trips have a duration of fewer than 19 minutes.
-81% of the users have an annual subscription.
-Our busiest hours will be between 7am - 9am and between 5pm - 7pm
-Additional vizualizations for future analysis
-To forecast monthly incomes, we suggest gathering data regarding custom fees and subscription plans.
-Add a table displaying the top 50 stations to guarantee availability during rush hours.
-
-[link to dashboard](https://public.tableau.com/app/profile/francesca.walz/viz/CitiBikeTrips_16631661254180/BikeSharingStorybook?publish=yes "link to dashboard")
+###### For further analysis of the data we could look at a breakdown of age of users, this could assist with targeting the correct age demographic to boost subscriptions and another helpful analysis would be to look at station locations in bustling business areas that have the largest starting/ending points to make sure there are ample bikes available for subscribers especially as this would help to gaurantee there was a bike for their early morning commutes and trip home at the end of a long workday.
