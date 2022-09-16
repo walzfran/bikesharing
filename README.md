@@ -12,6 +12,25 @@
 
 ###### Below are images taken from my Tableau story with a bite more information about each slide in the story
 
+![First_Image](https://github.com/walzfran/bikesharing/blob/main/Images/Title_Page.png)
+
+###### This first image depicts the title page, for this I used the bike utilization image, this shows each bike and the total trip duration that is has been riden. This image is not nnecessarily as useful for the story that is portrayed but it is an image that grabs attention and will create interest in the story for the viewer. This image allows the user to click on each dot and then the information is displayed for the individual bikeid. 
+
+![Second_Image](https://github.com/walzfran/bikesharing/blob/main/Images/Chart_Overview.png)
+
+###### In this slide of the story I added a dashboard which has information on how many rides were taken, the breakdown of users by gender as well as subscriber vs. customer, the most popular starting locations & ending locations as well as the start times. In this dashboard I allowed the user to select a starting point and ending point to filter the data which then populates new breakdowns for all of the visuilizations. Below is a screenshot showing filtered data. In both the starting and ending points visuilizations there are pop-ups and labels for the station name and location. Being able to filter the data this way will help to determine a bit more of why these bikes are used and where users are going most frequently. 
+
+![Third_Image](https://github.com/walzfran/bikesharing/blob/main/Images/Chart_Filtered.png)
+
+###### Below is an image that is depicting the number of rides based on the trip duration, it is filtered currently to show between 0-3 hours and it is clear that most users are using these bikes for shorter rides. The image after this one is showing the same information but breaking it down a bit further and showing gender as well as just user. This shows us that a majority of the rides are taken by men, in the first informative slide it does show the user breakdown by gender but this visulization really shows the difference between men and women in a drastic visualization. 
+
+![Fourth_Image](https://github.com/walzfran/bikesharing/blob/main/Images/Users_TripDuration.png)
+
+![Fifth_Image](https://github.com/walzfran/bikesharing/blob/main/Images/Users_gender_TripDuration.png)
+
+
+
+
 
 
 
