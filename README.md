@@ -42,7 +42,7 @@
 
 #### Summary
 
-###### Below is information that we can shate with investors based on the data we analyzed. 
+###### I tried to show a summary of each image to help depict the story we would tell investors slide by slide above. Below is information that we can confidently share with investors based on the data we analyzed. 
 
 * A majority of the users are male
 * There are far more subscribers than single use customers 
